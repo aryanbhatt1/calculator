@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="btn_clr" />
+    <color name="selected">#F4B2B2</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorOverlay">#cc3F51B5</color>
+    <color name="blue">#10041c</color>
+    <color name="lime">#00FF00</color>
+    <color name="colorGrey">#191919</color>
+    <color name="lightWhite">#FEFFFF</color>
+    <color name="lightpressed">#A6A1A1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightred">#B68F0000</color>
+    <color name="lime2">#4CC34C</color>
+    <color name="back">#131313</color>
+    <color name="display">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="input">#858080</color>
+</resources>

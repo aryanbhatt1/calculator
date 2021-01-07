@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.aryan.calculator.MainActivity">
+    <item
+        android:id="@+id/theme"
+        android:icon="@drawable/ic_micon"
+        android:title="Theme"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/Light"
+                android:title="Light"/>
+            <item
+                android:id="@+id/Dark"
+                android:title="Dark"/>
+        </menu>
+    </item>
+</menu>
